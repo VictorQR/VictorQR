@@ -47,11 +47,20 @@
 ### 📊 我的 GitHub 数据
 
 <div align="center">
+  <!-- 统计服务暂时不可用 (Error Fetching Resource)
   <img src="https://github-readme-stats.vercel.app/api?username=VictorQR&show_icons=true&hide_border=true&theme=buefy&count_private=true&include_all_commits=true&locale=cn" alt="VictorQR's GitHub stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorQR&layout=compact&hide_border=true&theme=buefy&langs_count=8&locale=cn" alt="Top Languages" />
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=VictorQR&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  -->
+
+  <!-- 替代方案：GitHub Profile Summary Cards (由 Actions 自动生成) -->
+  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+  <br>
+  <img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
+  <br>
+  <img src="profile-summary-card-output/default/3-stats.svg" alt="Stats" />
 </div>
 
 <p align="center">
