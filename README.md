@@ -55,12 +55,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=VictorQR&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   -->
 
-  <!-- 替代方案：GitHub Profile Summary Cards (由 Actions 自动生成) -->
-  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
-  <br>
-  <img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
-  <br>
-  <img src="profile-summary-card-output/default/3-stats.svg" alt="Stats" />
+  <!-- 替代方案：GitHub Metrics (支持中文，由 Actions 自动生成) -->
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <p align="center">
