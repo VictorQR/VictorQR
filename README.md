@@ -55,7 +55,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=VictorQR&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   -->
 
-  <!-- 替代方案：GitHub Metrics (支持中文，由 Actions 自动生成) -->
+  <!-- 替代方案：GitHub Metrics (由 Actions 自动生成) -->
   <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
