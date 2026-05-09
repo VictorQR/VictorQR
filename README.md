@@ -40,10 +40,6 @@
   <a href="https://github.com/VictorQR/openclaw-memory-hub" target="_blank"><img src="https://img.shields.io/badge/Memory%20Hub-记忆中枢-blueviolet.svg?style=for-the-badge&logo=brain" /></a>
 </p>
 
-<p align="center">
-  <a href="https://ganzi-trip.victorqr.workers.dev/" target="_blank"><img src="https://img.shields.io/badge/Ganzi%20Trip-甘孜自驾游记-00ADD8?style=for-the-badge&logo=cloudflare" /></a>
-</p>
-
 ---
 
 ### 🛠️ 我的技术栈
