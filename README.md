@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/VictorQR">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=你好,+我是+Victor+QR;一名技术爱好者;热衷于配置和自动化;科幻及游戏爱好者" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=你好,+我是+Victor+QR;AI+Agent+构建者;热衷于配置和自动化;科幻及游戏爱好者" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,6 +13,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VictorQR&label=VISITORS&color=brightgreen&style=for-the-badge" alt="profile visitors"/>
   <a href="mailto:qr2670135311@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://clawhub.ai/plugins/@victorqr/clawguard" target="_blank"><img src="https://img.shields.io/badge/ClawHub-插件发布-8A2BE2?style=for-the-badge" /></a>
 </div>
 
 ---
@@ -31,6 +32,20 @@
 
 ---
 
+### 🤖 OpenClaw 生态 & ClawHub 插件
+
+<p align="center">
+  <a href="https://github.com/VictorQR/clawguard" target="_blank"><img src="https://img.shields.io/badge/ClawGuard-安全护栏-red.svg?style=for-the-badge&logo=shield" /></a>
+  <a href="https://github.com/VictorQR/openclaw-dir-inventory" target="_blank"><img src="https://img.shields.io/badge/Dir%20Inventory-目录清单-green.svg?style=for-the-badge&logo=files" /></a>
+  <a href="https://github.com/VictorQR/openclaw-memory-hub" target="_blank"><img src="https://img.shields.io/badge/Memory%20Hub-记忆中枢-blueviolet.svg?style=for-the-badge&logo=brain" /></a>
+</p>
+
+<p align="center">
+  <a href="https://ganzi-trip.victorqr.workers.dev/" target="_blank"><img src="https://img.shields.io/badge/Ganzi%20Trip-甘孜自驾游记-00ADD8?style=for-the-badge&logo=cloudflare" /></a>
+</p>
+
+---
+
 ### 🛠️ 我的技术栈
 
 <p align="center">
@@ -40,6 +55,11 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
   <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <br>
+  <a href="https://github.com/nicedoc/openclaw" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenClaw-AI%20Agent-2C3E50?style=for-the-badge&logo=robot" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 </p>
 
 ---
